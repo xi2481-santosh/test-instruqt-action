@@ -3,8 +3,9 @@ id: yn8e7robxa2p
 title: upgr-kv
 teaser: Learn how to build tracks with an AWS account
 description: |-
-  Learn how to use a sandboxed AWS account in your Instruqt track.
-
+  # test
+  ### Learn how to use a sandboxed AWS account in your Instruqt track.
+  ###
   **This track demonstrates how to:**
     - Link an AWS cloud account to your sandbox
     - How to use the cloud client Docker container
@@ -20,7 +21,7 @@ owner: instruqt-support
 developers:
 - krishna@instruqt.com
 idle_timeout: 300
-timelimit: 2000
+timelimit: 1980
 lab_config:
   overlay: false
   width: 33
@@ -32,4 +33,4 @@ lab_config:
   lab_v2: false
   override_challenge_layout: false
   hideStopButton: false
-checksum: "10717419989960835632"
+checksum: "12564825291667922774"
